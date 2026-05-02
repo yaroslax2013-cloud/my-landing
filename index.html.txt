@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Real Story</title>
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 420px;
+    margin: auto;
+    background: #fff;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 22px;
+}
+
+.chat {
+    background: #e6ffe6;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 15px 0;
+}
+
+.btn {
+    display: inline-block;
+    width: auto;
+    padding: 12px 20px;
+    font-size: 16px;
+    border-radius: 8px;
+    background: #28a745;
+    color: #fff;
+    text-decoration: none;
+    margin: 15px auto;
+}
+
+.container {
+    text-align: center;
+}
+
+.trust {
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.small {
+    font-size: 12px;
+    color: gray;
+    margin-top: 5px;
+}
+</style>
+
+</head>
+<body>
+
+<div class="container">
+
+<h1>How I made my first ₦85,000 from my phone</h1>
+
+<img src="img/win.jpg" style="width:100%; border-radius:10px;">
+
+<p>Last month was really hard for me.</p>
+
+<p>I kept seeing people talking about this game on WhatsApp and TikTok.</p>
+
+<p>I didn’t believe it at first.</p>
+
+<p><b>Then I tried with just 2000₦...</b></p>
+
+<p>After a few minutes, I got my first win.</p>
+
+<p><b>I was shocked 😳</b></p>
+
+<img src="img/win.jpg" style="width:100%; border-radius:10px;">
+
+<p>Then I tried to withdraw…</p>
+
+<p><b>It actually worked. I got the money on my account.</b></p>
+
+<div class="chat">
+<p><b>Chinedu:</b> I started with 2000₦ bro 😅</p>
+<p><b>Emeka:</b> same 😂 I thought it's fake</p>
+<p><b>Chinedu:</b> I just withdrew now 🔥</p>
+<p><b>Emeka:</b> fr??</p>
+<p><b>Chinedu:</b> yes, check it yourself</p>
+</div>
+
+<p>You only need to:</p>
+<p>1. Create account<br>
+2. Choose game<br>
+3. Start small</p>
+
+<div class="trust">
+✔ Fast withdrawals<br>
+✔ Works on mobile
+</div>
+
+<a href="YOUR_AFFILIATE_LINK" class="btn">
+START WITH 2000₦
+</a>
+
+<p class="small">Most users start small to test it</p>
+
+<p class="small">+17 people joined in the last 10 minutes</p>
+
+</div>
+
+</body>
+</html>
